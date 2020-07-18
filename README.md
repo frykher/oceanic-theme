@@ -1,6 +1,11 @@
 # oceanic-theme
 customized fork of material ocean theme for windows terminal
 
+### Example
+![Terminal Goodness](image.png)
+
+
+
 ## Usage
 
 Copy the contents of `oceanic.json` in the repository or copy from here:
