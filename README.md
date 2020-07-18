@@ -36,5 +36,6 @@ Copy the contents of `oceanic.json` in the repository or copy from here:
 1. Go into your Windows Terminal settings
 2. Go to "schemes"
 3. Paste the theme object into it (make sure you're following the rules of json)
-4. Profit
-5. Sit back and watch a beautiful theme
+4. Scroll to the shell that you want to use (Powershell, Command Prompt, wsldistros, etc.)
+5. Add the "colorScheme" property to it, with its value being "Oceanic"
+6. Profit
