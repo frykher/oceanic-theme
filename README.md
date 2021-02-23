@@ -2,7 +2,7 @@
 customized fork of material ocean theme for windows terminal
 
 ### Example
-![Terminal Goodness](image.png)
+![Terminal Goodness](example-theme.png)
 
 
 
@@ -14,18 +14,18 @@ Copy the contents of `oceanic.json` in the repository or copy from here:
 {
   "name": "Oceanic",
   "background": "#0f111a",
-  "foreground": "#ddc7c7",
+  "foreground": "#f1ecec",
   "black": "#000000",
   "blue": "#49baff",
   "brightBlack": "#464b5d",
   "brightBlue": "#49baff",
-  "brightCyan": "#27dede",
+  "brightCyan": "#3bd3e0",
   "brightGreen": "#16c98d",
   "brightPurple": "#c792ea",
   "brightRed": "#ff5370",
   "brightWhite": "#ffffff",
   "brightYellow": "#ffcb6b",
-  "cyan": "#27dede",
+  "cyan": "#3bd3e0",
   "green": "#16c98d",
   "purple": "#c792ea",
   "red": "#ff5370",
